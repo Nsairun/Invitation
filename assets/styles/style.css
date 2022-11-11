@@ -1,11 +1,11 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: rgb(241, 223, 160);
+  background-color: #F1881E;
 }
 
 .containe {
-  background-image: "url"("../images/wedding_couple2.jpg");
+  background-image: url("../images/wedding_couple2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
@@ -46,8 +46,8 @@ body {
 }
 
 .d button {
-  background-color: lightgray;
-  color: black;
+  background-color: #d3d3d3 ;
+  color: #000;
   width: 200px;
   height: 40px;
   border-radius: 5px;
@@ -56,7 +56,7 @@ body {
 }
 
 .e {
-  background-image: "url"("../images/wine.jpg");
+  background-image: url("../images/wine.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
@@ -99,7 +99,7 @@ body {
 .m {
   text-align: center;
   margin-top: 40px;
-  background-color: rgb(236, 201, 156);
+  background-color: #eceff1;
   font-weight: lighter;
 }
 
@@ -108,7 +108,7 @@ body {
 }
 
 .n button {
-  background-color: rgb(241, 45, 45);
+  background-color: #f11f2d;
   color: whitesmoke;
   width: 150px;
   height: 50px;
@@ -120,7 +120,7 @@ body {
 .p {
   text-align: center;
   color: #fff;
-  background-color: black;
+  background-color: #000;
   height: 10vh;
 }
 
@@ -134,24 +134,24 @@ body {
 }
 
 .na {
-  color: black;
+  color: #000;
   text-decoration: none;
   padding: 2% 10%;
 }
 
 @media screen  and (max-width: 600px) {
   img {
-      width: 100%;
-      margin: 0;
-    }
+    width: 100%;
+    margin: 0;
+  }
 
   .l{
-      display:grid;
-      margin: none;
-      gap: 1rem;
-    }
+    display:grid;
+    margin: none;
+    gap: 1rem;
+  }
 
 .nav-bar {
-      display: none;
-    }
+    display: none;
+  }
 }
