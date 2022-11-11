@@ -67,7 +67,7 @@ body {
 
 .f {
   position: absolute;
-  color: #fff;  
+  color: #fff;
   top: 50%;
   left: 40%;
   transform: translate(-50, -50);
@@ -76,7 +76,6 @@ body {
 }
 
 .g {
-
   text-align: center;
   font-size: large;
   font-weight: inherit;
