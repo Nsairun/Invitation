@@ -1,11 +1,12 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #f1881e;
+  background-color: #f2e1e1;
+  opacity: 80%;
 }
 
 .containe {
-  background-image: url("../images/wedding_couple2.jpg");
+  background-image: url("../images/12-15.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
@@ -15,34 +16,43 @@ body {
 .h {
   position: absolute;
   color: #fff;
-  top: 50%;
+  top: 25%;
   left: 40%;
   transform: translate(-50, -50);
   font-size: 25px;
   text-align: center;
+  font-family: "verdana", sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  font-weight: 10%;
 }
 
 .wdx {
+  padding: 64;
   text-align: center;
   margin-top: 5%;
   margin-bottom: 9%;
   font-size: 20px;
+  font-family: "raleway", sans-serif;
 }
 
 .header img {
+  box-sizing: inherit;
   align-items: center;
+}
+.header img p{
+  line-height: 1.5;
 }
 
 .b {
-  margin-left: 200px;
-  margin-right: 200px;
-  text-align: justify;
+  line-height: 1.5;
 }
 
 .c {
   text-align: center;
   margin-top: 3%;
   margin-bottom: 5%;
+  font-family: "raleway", sans-serif;
 }
 
 .d button {
@@ -53,26 +63,34 @@ body {
   border-radius: 5px;
   border: none;
   font-size: medium;
+  font-family: "raleway", sans-serif;
+}
+.f {
+  position: absolute;
+  color: #fff;
+  top: 30%;
+  left: 40%;
+  transform: translate(-50, -50);
+  text-align: center;
+  font-size: 40px;
+  font-family: "raleway", sans-serif;
+  line-height: 1.5;
+}
+.f p{
+    font-size: medium;
+    font-weight: lighter;
+    line-height: 1.5;
 }
 
 .e {
-  background-image: url("../images/wine.jpg");
+  background-image: url("../images/Rozen.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
   position: relative;
   text-align: center;
   color: #fff;
-}
-
-.f {
-  position: absolute;
-  color: #fff;
-  top: 50%;
-  left: 40%;
-  transform: translate(-50, -50);
-  text-align: center;
-  font-size: 50px;
+  font-family: "raleway", sans-serif;
 }
 
 .g {
@@ -81,30 +99,41 @@ body {
   font-weight: inherit;
   margin-top: 5%;
   margin-bottom: 5%;
+  font-family: "raleway", sans-serif;
 }
 
 .middle img {
-  margin-left: 60px;
   border-radius: 10px;
-  width: 90%;
+  box-sizing: inherit;
+  margin-left: 15%;
 }
 
 .l {
   display: flex;
-  text-align: center;
+  box-sizing: inherit;
   justify-content: center;
   gap: 15rem;
+  font-family: "raleway", sans-serif;
+  
+}
+footer{
+    background-color:#ffc0cb; 
 }
 
 .m {
   text-align: center;
-  margin-top: 40px;
-  background-color: #eceff1;
+  margin-top: 20px;
   font-weight: lighter;
+  font-family: "raleway", sans-serif;
+  box-sizing: inherit;
+  padding: 64;
 }
 
 .o {
+  margin-top: 10%;
+  padding: 64;
   margin-top: 90px;
+  font-family: "raleway", sans-serif;
 }
 
 .n button {
@@ -122,6 +151,10 @@ body {
   color: #fff;
   background-color: #000;
   height: 10vh;
+}
+
+.p h5{
+    margin-bottom: 0;
 }
 
 .nav-bar {
