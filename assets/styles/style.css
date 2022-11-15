@@ -71,6 +71,7 @@ body {
   font-size: medium;
   font-family: raleway, sans-serif;
 }
+
 .f {
   position: absolute;
   color: #fff;
@@ -91,7 +92,7 @@ body {
   position: relative;
   text-align: center;
   color: #fff;
-  font-family: "raleway", sans-serif;
+  font-family: raleway, sans-serif;
 }
 
 .g {
@@ -100,7 +101,7 @@ body {
   font-weight: inherit;
   margin-top: 5%;
   margin-bottom: 5%;
-  font-family: "raleway", sans-serif;
+  font-family: raleway, sans-serif;
 }
 
 .middle img {
@@ -114,27 +115,26 @@ body {
   box-sizing: inherit;
   justify-content: center;
   gap: 15rem;
-  font-family: "raleway", sans-serif;
+  font-family: raleway, sans-serif;
 }
 
 footer {
-  background-color:#ffc0cb; 
+  background-color: #ffc0cb;
 }
 
 .m {
   text-align: center;
   margin-top: 20px;
   font-weight: lighter;
-  font-family: "raleway", sans-serif;
+  font-family: raleway, sans-serif;
   box-sizing: inherit;
   padding: 64;
 }
 
 .o {
-  margin-top: 10%;
   padding: 64;
   margin-top: 90px;
-  font-family: "raleway", sans-serif;
+  font-family: raleway, sans-serif;
 }
 
 .n button {
