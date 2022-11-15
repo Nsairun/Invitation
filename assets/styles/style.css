@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #f2e1e1;
-  opacity: 80%;
+  opacity: 0.8;
 }
 
 .containe {
@@ -19,9 +19,8 @@ body {
   top: 25%;
   left: 40%;
   transform: translate(-50, -50);
-  font-size: 25px;
   text-align: center;
-  font-family: "verdana", sans-serif;
+  font-family: verdana, sans-serif;
   font-size: 20px;
   line-height: 1.5;
   font-weight: 10%;
@@ -33,14 +32,21 @@ body {
   margin-top: 5%;
   margin-bottom: 9%;
   font-size: 20px;
-  font-family: "raleway", sans-serif;
+  font-family: raleway, sans-serif;
 }
 
 .header img {
   box-sizing: inherit;
   align-items: center;
 }
-.header img p{
+
+.f p {
+  font-size: medium;
+  font-weight: lighter;
+  line-height: 1.5;
+}
+
+.header img p {
   line-height: 1.5;
 }
 
@@ -52,7 +58,7 @@ body {
   text-align: center;
   margin-top: 3%;
   margin-bottom: 5%;
-  font-family: "raleway", sans-serif;
+  font-family: raleway, sans-serif;
 }
 
 .d button {
@@ -63,7 +69,7 @@ body {
   border-radius: 5px;
   border: none;
   font-size: medium;
-  font-family: "raleway", sans-serif;
+  font-family: raleway, sans-serif;
 }
 .f {
   position: absolute;
@@ -73,13 +79,8 @@ body {
   transform: translate(-50, -50);
   text-align: center;
   font-size: 40px;
-  font-family: "raleway", sans-serif;
+  font-family: raleway, sans-serif;
   line-height: 1.5;
-}
-.f p{
-    font-size: medium;
-    font-weight: lighter;
-    line-height: 1.5;
 }
 
 .e {
@@ -114,10 +115,10 @@ body {
   justify-content: center;
   gap: 15rem;
   font-family: "raleway", sans-serif;
-  
 }
-footer{
-    background-color:#ffc0cb; 
+
+footer {
+  background-color:#ffc0cb; 
 }
 
 .m {
@@ -153,8 +154,8 @@ footer{
   height: 10vh;
 }
 
-.p h5{
-    margin-bottom: 0;
+.p h5 {
+  margin-bottom: 0;
 }
 
 .nav-bar {
