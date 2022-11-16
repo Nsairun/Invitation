@@ -39,10 +39,9 @@ Knowledge about:
 
 ## Author
 
-ðŸ‘¤ **Nsairin**
+**Nsairun**
 
 - GitHub: [@Nsairun](git@github.com:Nsairun/Invitation.git)
 
-## ðŸ“ License
-
+## License
 This project is [w3school](./LICENSE) licensed ...
