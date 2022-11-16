@@ -1,6 +1,6 @@
 # Wedding Invitation
 
-this is a project about a wedding invitation 
+this is a project about a wedding invitation
 
 ## ABOUT
 -This is a wedding template project amongst 7 projects given to i and my mates as an assignment to test our skills on HTML and CSS
